@@ -7,9 +7,7 @@
 </p>
 
 ## Disclaimer
-|THIS SCRIPT was made for **Educational purposes**|
-This project was created only for **good purposes** and **personal use**.
-By using **The Bot**, you agree that you **hold responsibility** and accountability of any consequences caused by your actions.
+This **Bot** is for **Educational purposes**
 
 # Features
 ![tokengod1](https://user-images.githubusercontent.com/100526916/177012907-ec3a00a5-10dc-4269-8fbf-11992495e4cd.png)
