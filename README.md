@@ -1,25 +1,9 @@
-<h1 align="center">TokenGod is for automate things with a discord user token</h1>
+<h1 align="center">TokenGod</h1>
+
+
 
 <p align="center">
-  <a href="https://www.python.org">
-    <img src="https://img.shields.io/badge/Python-3-informational.svg">
-  </a>
-  <a href="https://github.com/AstraaDev/Discord-All-Tools-In-One">
-    <img src="https://img.shields.io/badge/covarage-100%25-fluogreen">
-  </a>
-  <a href="https://github.com/AstraaDev">
-    <img src="https://img.shields.io/github/repo-size/AstraaDev/Discord-Token-Grabber.svg?label=Repo%20size&style=flat-square">
-  </a>
-  <a href="https://github.com/AstraaDev">
-    <img src="https://gpvc.arturio.dev/AstraaDev">
-  </a>
-    <p align="center"> <a href="https://twitter.com/astraadev" target="blank">
-    <img src="https://img.shields.io/twitter/follow/astraadev?logo=twitter&style=for-the-badge" alt="astraadev"/></a>
-  </a>
-</p>
-
-<p align="center">
-  [Discord] - Token-Grabber collecting the token on any Discord browser written in Python.
+  Automate things with a discord user token
 </p>
 
 ## Disclaimer
@@ -27,7 +11,7 @@
 |THIS SCRIPT was made for **Educational purposes**|
 |-------------------------------------------------|
 This project was created only for **good purposes** and **personal use**.
-By using **THIS SCRIPT**, you agree that you **hold responsibility** and accountability of any consequences caused by your actions.
+By using **The Bot**, you agree that you **hold responsibility** and accountability of any consequences caused by your actions.
 
 # Features
 ```json
