@@ -9,13 +9,15 @@
 ## Disclaimer
 
 |THIS SCRIPT was made for **Educational purposes**|
-|-------------------------------------------------|
 This project was created only for **good purposes** and **personal use**.
 By using **The Bot**, you agree that you **hold responsibility** and accountability of any consequences caused by your actions.
 
 # Features
 ```
-hello
+![1](https://cdn.discordapp.com/attachments/986019218233389066/992863993767149638/tokengod1.png)
+![2](https://cdn.discordapp.com/attachments/986019218233389066/992863993448366181/tokengod2.png)
+![3](https://cdn.discordapp.com/attachments/986019218233389066/992863993238663168/tokengod3.png)
+![4](https://cdn.discordapp.com/attachments/986019218233389066/992863993989443644/tokengod4.png)
 ```
 
 # How to use
