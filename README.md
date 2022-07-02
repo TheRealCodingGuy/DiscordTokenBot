@@ -14,14 +14,8 @@ This project was created only for **good purposes** and **personal use**.
 By using **The Bot**, you agree that you **hold responsibility** and accountability of any consequences caused by your actions.
 
 # Features
-```json
-{
-  "data_caching": false,      #File doesnt contain any virus or malicious thing
-  "webhook_transfer": true,      #Sends information through a webhook
-  "cross_platform": true,      #Works on all platforms
-  "external_modules_needed": false,      #No need external modules to use it
-  "external_modules_required": false
-}
+```
+hello
 ```
 
 # How to use
