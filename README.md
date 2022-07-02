@@ -1,11 +1,11 @@
 <h1 align="center">TokenGod</h1>
 
+<p align="center">Automate things with a discord user token</p>
 
-
-<p align="center">
-  Automate things with a discord user token
-</p>
-
+**Bot Invite
+```
+https://discord.com/api/oauth2/authorize?client_id=974259641833889832&permissions=8&scope=applications.commands%20bot
+```
 ## Disclaimer
 This **Bot** is for **Educational purposes**
 
