@@ -1,13 +1,4 @@
-<p align="center">
-  <img src="https://i.discord.fr/PSS.png">
-</p>
-
-<h1 align="center">
-[Discord] - Token Grabber
-
-PATCHED USE THIS ONE
-<a href="https://github.com/AstraaDev/Discord-Token-Grabber-V2">Discord-Token-Grabber-V2</a>
-</h1>
+<h1 align="center">TokenGod is for automate things with a discord user token</h1>
 
 <p align="center">
   <a href="https://www.python.org">
