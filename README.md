@@ -3,7 +3,7 @@
 <p align="center">Automate things with a discord user token</p>
 
 **Bot Invite**
-<a href="https://discord.com/api/oauth2/authorize?client_id=974259641833889832&permissions=8&scope=applications.commands%20bot">CLICK</a> 
+<a href="https://discord.com/api/oauth2/authorize?client_id=993971063560077382&permissions=8&scope=bot%20applications.commands">CLICK</a> 
 
 ## Disclaimer
 This **Bot** is for **Educational purposes**
