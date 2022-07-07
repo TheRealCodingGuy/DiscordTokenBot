@@ -1,4 +1,4 @@
-<h1 align="center">TokenGod</h1>
+<h1 align="center">TokenBot</h1>
 
 <p align="center">Automate things with a discord user token</p>
 
